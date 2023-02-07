@@ -2,6 +2,7 @@
 
 **GUIDED PROJECT on COURSERA: 
 *We train time-series prediction models to predict future product prices of AVOCADO.***
+CERTIFICATE: [Check this out!!](https://coursera.org/share/3beba6012770d5afdb9cd644b347efdf)
 
 *😊😊😊 Show some :heart: by giving the repo a ⭐*
 
