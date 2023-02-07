@@ -1,13 +1,15 @@
 # PROJECT: Predict-Future-Product-Prices-Using-Facebook-Prophet
 
-**GUIDED PROJECT on COURSERA: *We train time-series prediction models to predict future product prices of AVOCADO.* **
+**GUIDED PROJECT on COURSERA: *We train time-series prediction models to predict future product prices of AVOCADO.***
 
 *😊😊😊 Show some :heart: by giving the repo a ⭐*
 
 💠 **Code performed along with the tasks is available here:**<br>
   🌼 Click here : [ipynb notebook](https://github.com/JasweenBrar/Predict-Future-Product-Prices-Using-Facebook-Prophet/blob/main/Predict%20Future%20Prices%20Using%20Facebook%20Prophet.ipynb)
 
+
 💠 **Tasks:**
+
    ⭐ Task 1: Project Overview (GOAL of our project)
   
    ⭐ Task 2: Import Libraries and datasets 
@@ -22,7 +24,9 @@
    
    ⭐ Task 7: Develop model and make predictions - Part B (Region Specific)
 
+
 💠 **Learnt about new technologies:**
+
     ✔️ Facebook Prophet time series prediction tool
     
     ✔️ Worked with python libraries: *numpy, pandas, matplotlib, seaborn*
